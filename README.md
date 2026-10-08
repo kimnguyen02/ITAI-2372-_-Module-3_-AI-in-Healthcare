@@ -1,1 +1,1 @@
-# ITAI-2372-_-Module-3_-AI-in-Healthcare
+# ITAI-2372_Module3_AI-in-Healthcare
