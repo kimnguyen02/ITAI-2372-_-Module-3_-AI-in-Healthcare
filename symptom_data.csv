@@ -1,0 +1,8 @@
+category,symptoms,triage
+Flu-like illness,fever cough sore throat fatigue headache,Routine
+Cold-like illness,cough runny nose sneezing sore throat congestion,Self-care
+Migraine-like symptoms,headache nausea sensitivity light migraine,Routine
+Gastrointestinal illness,nausea vomiting diarrhea stomach pain,Routine
+Respiratory symptoms,cough wheezing breathing difficulty chest tightness,Urgent
+Allergic reaction,sneezing runny nose itchy eyes congestion,Self-care
+Emergency warning signs,severe chest pain severe breathing difficulty fainting confusion,Emergency
