@@ -6,6 +6,8 @@
 This project is a simple AI-driven healthcare application developed
 for educational purposes.
 
+The dataset is created by me, not using a public one.
+
 The application uses Natural Language Processing (NLP) to analyze
 user-entered symptom descriptions and compare them with a small
 educational symptom dataset.
